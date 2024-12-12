@@ -1,3 +1,5 @@
 {
-  "keep": 1
+  "keep": 1,
+  "trial": 0,
+  "kill": 0
 }
