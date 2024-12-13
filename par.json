@@ -1,7 +1,7 @@
 {
   "keep": 1,
-  "trial": 1,
+  "trial": 0,
   "kill": 0,
-  "time": 10,
+  "time": 5,
   "available": true
 }
