@@ -3,5 +3,6 @@
   "trial": 0,
   "kill": 0,
   "time": 4,
-  "available": true
+  "available": true,
+  "fail": 1
 }
